@@ -1,8 +1,15 @@
 # Salary
 
-**Description:** The walk Boston shows the top five earning employees and the details of the employees by JAVASCRIPT. 
-So through this we can identify and filter the top values from the n number of data’s.
+**Description:**
+This JavaScript program retrieves and displays information about the top five earning employees in Boston, providing key details for each employee.
 
-**Future Improvements:** In this project further improvements can enhanced by adding new more data about employess and make code easier.
+**How to run the code:**
 
-**Link:** https://yogesh-mca2023.github.io/Salary/
+***Step1:*** Save the HTML file with .html extension.
+
+***Step2:*** Click the "Go Live" button.A new browser window will open, displaying Boston data.
+
+**Future Enhancement:**
+Implementing a search or filter feature to allow users to specify custom criteria for identifying top earners within a larger dataset.
+
+
